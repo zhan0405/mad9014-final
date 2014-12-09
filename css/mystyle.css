@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1{
+    text-align: left;
+   
+	}
+.output{
+	 text-align: left;
+	
+	}
+#F{
+	 text-align: left;
+	}
+	
+[type=text] {
+		
+	background: green;
+}
